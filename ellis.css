@@ -15,17 +15,14 @@
     position: absolute;
     top: 50%;
     left: 50%;
-    /*text-align: center;*/
     opacity: 0.8;
-
-   
 } 
 
-
-.container {
-	margin: auto;
-
+.space-around { 
+  -webkit-justify-content: space-around; 
+  justify-content: space-around; 
 }
+
 
 .main-nav {
 	position: fixed;
@@ -42,8 +39,8 @@ ul {
     justify-content: center;
     list-style: none;
     background-color: grey;
-
 }
+
 
 li {
 	display: inline-block;
