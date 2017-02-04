@@ -1,7 +1,7 @@
 var croc = {
   
     name: "Crocodill-E",
-    description: "description",
+    description: "Crcodile with a kung fu grip",
     price:  "$20",
     url:  "/images/crocodile.jpg",
 }
@@ -9,7 +9,7 @@ var croc = {
 var wiggly = {
   
     name: "Piggly wiggly",
-    description: "description",
+    description: "This little piggy went to the market",
     price:  "$20",
     url:  "/images/piggy.jpg",
 }
@@ -17,7 +17,7 @@ var wiggly = {
 var rat = {
   
     name: "Ratatouille",
-    description: "wolf description",
+    description: "Rat tat tat tat tat",
     price:  "$20",
     url:  "/images/rat.jpg",
 }
@@ -33,7 +33,7 @@ var monkey = {
 var rintin = {
   
     name: "Rin Tin Tin",
-    description: "description",
+    description: "A house is not a home without Rin",
     price:  "$20",
     url:  "/images/puppy.jpg",
 }
@@ -41,7 +41,7 @@ var rintin = {
 var stardust = {
   
     name: "Stardust",
-    description: "description",
+    description: "Cleo kitten with a dusty surprise",
     price:  "$20",
     url:  "/images/Cleo-kitten.jpg",
 }
@@ -49,7 +49,7 @@ var stardust = {
 var rhino = {
   
     name: "elephant",
-    description: "Mighty horns, defends their territory at all costs",
+    description: "TRNK that monkey",
     price:  "$20",
     url:  "/images/elephant.jpg",
 }
@@ -57,7 +57,7 @@ var rhino = {
 var bear = {
   
     name: "Pumpkin",
-    description: "Small but magestic Black Bear found in the Smoky Mountains",
+    description: "Pumkin spiced kitty",
     price:  "$20",
     url:  "/images/pumpkin-kitty.jpg", 
 }
@@ -65,7 +65,7 @@ var bear = {
 var shark = {
   
     name: "Lion",
-    description: "Great White with mighty jaws",
+    description: "King of the Java",
     price:  "$20",
     url:  "/images/lion.jpg",
 }
