@@ -1,0 +1,58 @@
+body {
+	background: url(http://www.pixelstalk.net/wp-content/uploads/2016/06/Jungle-Picture-HD.jpg) no-repeat center center fixed;
+	background-size: cover;
+	font-family: Abel, Raleway, "Titillium Web";;
+}
+.jungle { 
+	position: relative;
+	top: 0;
+	left: 0;
+	z-index: -3; 
+} 
+
+.logo { 
+	z-index: 8;
+	width: 500px;
+	height: 500px;
+	margin-top: -250px;
+	margin-left: -250px;
+	border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    opacity: 0.8;
+} 
+
+.space-around { 
+  -webkit-justify-content: space-around; 
+  justify-content: space-around; 
+}
+
+
+.main-nav {
+	position: fixed;
+    bottom: 0;
+    width: 100%;
+    opacity: 0.6;
+}
+
+ul {
+	margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    list-style: none;
+    background-color: grey;
+}
+
+
+li {
+	display: inline-block;
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+	padding: 20px;
+	margin: 20px;
+	max-width: 15%; 
+}
