@@ -3,7 +3,7 @@
 	}
 
 .awardImg {
-	border: solid 1px green;
+	border: solid 1px red;
 	width: 200px;
 	height: 200px;
 	display: inline-block;
@@ -19,6 +19,9 @@
 .awardList p {
 	background-color: green;
 	opacity: 0.8;
+	border-radius: 15px;
+	border: solid 1px red;
+
 }
 
 
