@@ -1,0 +1,28 @@
+.awardContainer {
+	background: none;
+	}
+
+.awardImg {
+	border: solid 1px red;
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	opacity: 0.8;
+	border-radius: 25px;
+}
+
+.awardList {
+	max-width: 30%;
+	display: inline-block;
+}
+
+.awardList p {
+	background-color: green;
+	opacity: 0.8;
+	border-radius: 15px;
+	border: solid 1px red;
+
+}
+
+
+
