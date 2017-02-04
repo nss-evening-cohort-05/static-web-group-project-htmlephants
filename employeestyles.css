@@ -1,0 +1,36 @@
+.employee-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 80px 60px;
+}
+
+.employee-container h2,p {
+  color: grey;
+  text-align: center;
+  
+}
+
+.employee {
+  background: rgba(0, 0, 0, 0.71) ;
+  border-radius: 10px;
+  height: 430px;
+  width: 250px;
+  margin: 4px;  
+  
+}
+
+.employee img {
+  height: 100px;
+  width: 100px;
+  display: block;
+  margin: 0 auto;
+  padding-top: 30px;
+  border-radius: 5px;
+
+}
+
+.employee div {
+  margin: 7px;
+
+}
