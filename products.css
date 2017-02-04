@@ -1,0 +1,32 @@
+.products-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 80px 60px;
+  max-height: 600px;
+  overflow: auto;
+}
+
+.products-container h2,p {
+  color: grey;
+  text-align: center;
+  
+}
+
+.info {
+  background: rgba(0, 0, 0, 0.71) ;
+  border-radius: 10px;
+  height: 300px;
+  width: 250px;
+  margin: 4px;
+  overflow: scroll;
+}
+
+.info img {
+  height: 200px;
+  width: 200px;
+
+
+}
+
+
